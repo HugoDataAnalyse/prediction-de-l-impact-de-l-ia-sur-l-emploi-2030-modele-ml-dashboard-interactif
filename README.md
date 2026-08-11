@@ -2,7 +2,7 @@ Dans un contexte de transformation rapide du marché du travail par l'Intelligen
 
 L'objectif de ce projet n'était pas seulement de produire des statistiques, mais de créer un outil d'aide à la décision interactif permettant d'évaluer la résilience professionnelle d'un profil donné.
 
-🛠️ Stack Technique & Compétences mises en œuvre :
+ Stack Technique & Compétences mises en œuvre :
 
 Analyse Exploratoire des Données (EDA) : Nettoyage des données et visualisation des corrélations (salaires, expérience, exposition à l'IA) avec Pandas, Seaborn et Plotly.
 
@@ -12,4 +12,4 @@ Machine Learning : Entraînement et optimisation d'un modèle Random Forest Clas
 
 Déploiement & UI : Création d'un tableau de bord interactif (Dashboard) utilisant ipywidgets, permettant aux utilisateurs de simuler leur propre risque d'automatisation en temps réel selon leur métier et leur niveau d'expérience.
 
-💡 Conclusion clé : Le modèle démontre que la résilience face à l'IA ne repose pas uniquement sur l'expérience ou le salaire, mais sur une combinaison stratégique de compétences techniques et de capacités intrinsèquement humaines (empathie, jugement complexe).
+ Conclusion clé : Le modèle démontre que la résilience face à l'IA ne repose pas uniquement sur l'expérience ou le salaire, mais sur une combinaison stratégique de compétences techniques et de capacités intrinsèquement humaines (empathie, jugement complexe).
