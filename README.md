@@ -1,13 +1,11 @@
-Dans un contexte de transformation rapide du marché du travail par l'Intelligence Artificielle, j'ai développé un pipeline d'analyse de données et de Machine Learning de bout en bout pour évaluer le risque d'automatisation des métiers d'ici 2030.
+🤖 Machine Learning & Impact de l'IA sur l'emploi (Horizon 2030)
+Développement d'un pipeline complet pour évaluer le risque d'automatisation des métiers et la résilience professionnelle.→ Modélisation prédictive de pointe aboutissant à un outil interactif d'aide à la décision en temps réel.
 
-L'objectif de ce projet n'était pas seulement de produire des statistiques, mais de créer un outil d'aide à la décision interactif permettant d'évaluer la résilience professionnelle d'un profil donné.
+🧹 Analyse exploratoire & Feature Engineering (Pandas & Plotly)
+Nettoyage des données et intégration de matrices de compétences complexes (Soft vs Hard skills).→ Cartographie visuelle et statistique des corrélations clés entre salaires, expérience et exposition à l'IA.
 
- Stack Technique & Compétences mises en œuvre :
+🌲 Modélisation prédictive & Optimisation (Random Forest)
+Entraînement d'un classifieur robuste optimisé pour la détection fine des profils vulnérables.→ Gestion rigoureuse du surapprentissage par ajustement d'hyperparamètres pour atteindre 95 % de précision.
 
-Analyse Exploratoire des Données (EDA) : Nettoyage des données et visualisation des corrélations (salaires, expérience, exposition à l'IA) avec Pandas, Seaborn et Plotly.
-
-Feature Engineering : Encodage des variables textuelles et intégration de matrices de compétences complexes (Soft vs Hard skills) pour extraire le véritable "signal" des données.
-
-Machine Learning : Entraînement et optimisation d'un modèle Random Forest Classifier. Gestion avancée du surapprentissage (overfitting) via l'ajustement des hyperparamètres (max_depth, min_samples_leaf) et l'équilibrage des classes pour atteindre une précision de 95 % sur les données de test.
-
-Déploiement & UI : Création d'un tableau de bord interactif (Dashboard) utilisant ipywidgets, permettant aux utilisateurs de simuler leur propre risque d'automatisation en temps réel selon leur métier et leur niveau d'expérience.
+📊 Déploiement & Dashboard interactif (ipywidgets)
+Conception d'une interface utilisateur (UI) de simulation pour rendre les résultats du modèle actionnables.→ Création d'un simulateur de risques en temps réel basé sur le métier, les compétences et l'expérience.
